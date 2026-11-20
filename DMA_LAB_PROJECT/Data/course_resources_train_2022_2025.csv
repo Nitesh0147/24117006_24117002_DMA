@@ -1,0 +1,33 @@
+Semester,Elective_ID,Elective_Name,Current_Seats,Classroom_Capacity_Per_Section,Faculty_Available,Faculty_Capacity_Per_Section,Existing_Sections
+2022-Odd,ML,Machine Learning,55,70,1,70,1
+2022-Odd,CLOUD,Cloud Computing,60,65,1,65,1
+2022-Odd,CYBER,Cyber Security,50,60,2,60,1
+2022-Odd,DATA,Data Mining,55,70,1,70,1
+2022-Odd,IOT,Internet of Things,65,70,2,70,1
+2022-Odd,AI,Artificial Intelligence,50,65,1,65,1
+2022-Odd,BIGDATA,Big Data Analytics,45,60,1,60,1
+2022-Odd,BLOCKCHAIN,Blockchain Technology,40,55,1,55,1
+2023-Odd,ML,Machine Learning,65,75,1,75,1
+2023-Odd,CLOUD,Cloud Computing,60,65,1,65,1
+2023-Odd,CYBER,Cyber Security,60,70,2,70,1
+2023-Odd,DATA,Data Mining,60,70,1,70,1
+2023-Odd,IOT,Internet of Things,60,70,1,70,1
+2023-Odd,AI,Artificial Intelligence,55,65,1,65,1
+2023-Odd,BIGDATA,Big Data Analytics,50,60,1,60,1
+2023-Odd,BLOCKCHAIN,Blockchain Technology,45,55,1,55,1
+2024-Odd,ML,Machine Learning,70,80,2,80,1
+2024-Odd,CLOUD,Cloud Computing,65,70,1,70,1
+2024-Odd,CYBER,Cyber Security,65,70,1,70,1
+2024-Odd,DATA,Data Mining,60,70,2,70,1
+2024-Odd,IOT,Internet of Things,55,65,1,65,1
+2024-Odd,AI,Artificial Intelligence,60,70,1,70,1
+2024-Odd,BIGDATA,Big Data Analytics,55,65,1,65,1
+2024-Odd,BLOCKCHAIN,Blockchain Technology,45,60,1,60,1
+2025-Odd,ML,Machine Learning,75,80,2,80,1
+2025-Odd,CLOUD,Cloud Computing,65,70,1,70,1
+2025-Odd,CYBER,Cyber Security,70,75,1,75,1
+2025-Odd,DATA,Data Mining,60,70,2,70,1
+2025-Odd,IOT,Internet of Things,55,65,1,65,1
+2025-Odd,AI,Artificial Intelligence,65,75,1,75,1
+2025-Odd,BIGDATA,Big Data Analytics,55,65,2,65,1
+2025-Odd,BLOCKCHAIN,Blockchain Technology,45,60,1,60,1

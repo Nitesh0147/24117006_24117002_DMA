@@ -1,0 +1,9 @@
+Semester,Elective_ID,Elective_Name,Current_Seats,Classroom_Capacity_Per_Section,Faculty_Available,Faculty_Capacity_Per_Section,Existing_Sections
+2026-Odd,ML,Machine Learning,60,80,2,80,1
+2026-Odd,CLOUD,Cloud Computing,60,65,1,65,1
+2026-Odd,CYBER,Cyber Security,65,75,1,75,1
+2026-Odd,DATA,Data Mining,55,70,1,70,1
+2026-Odd,IOT,Internet of Things,50,65,1,65,1
+2026-Odd,AI,Artificial Intelligence,60,75,1,75,1
+2026-Odd,BIGDATA,Big Data Analytics,50,65,1,65,1
+2026-Odd,BLOCKCHAIN,Blockchain Technology,40,60,1,60,1

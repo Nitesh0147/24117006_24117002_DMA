@@ -1,0 +1,41 @@
+"Semester","Elective_Name","Elective_ID","Current_Seats","Classroom_Capacity_Per_Section","Faculty_Available","Faculty_Capacity_Per_Section","Existing_Sections","Year","Section_Capacity","Current_Feasible_Capacity","Maximum_Feasible_Capacity","Students_Allocated","Unused_Capacity"
+"2022-Odd","Artificial Intelligence","AI",50,65,1,65,1,2022,65,50,65,34,16
+"2022-Odd","Big Data Analytics","BIGDATA",45,60,1,60,1,2022,60,45,60,24,21
+"2022-Odd","Blockchain Technology","BLOCKCHAIN",40,55,1,55,1,2022,55,40,55,17,23
+"2022-Odd","Cloud Computing","CLOUD",60,65,1,65,1,2022,65,60,65,57,3
+"2022-Odd","Cyber Security","CYBER",50,60,2,60,1,2022,60,50,120,39,11
+"2022-Odd","Data Mining","DATA",55,70,1,70,1,2022,70,55,70,41,14
+"2022-Odd","Internet of Things","IOT",65,70,2,70,1,2022,70,65,140,33,32
+"2022-Odd","Machine Learning","ML",55,70,1,70,1,2022,70,55,70,55,0
+"2023-Odd","Artificial Intelligence","AI",55,65,1,65,1,2023,65,55,65,44,11
+"2023-Odd","Big Data Analytics","BIGDATA",50,60,1,60,1,2023,60,50,60,25,25
+"2023-Odd","Blockchain Technology","BLOCKCHAIN",45,55,1,55,1,2023,55,45,55,14,31
+"2023-Odd","Cloud Computing","CLOUD",60,65,1,65,1,2023,65,60,65,42,18
+"2023-Odd","Cyber Security","CYBER",60,70,2,70,1,2023,70,60,140,44,16
+"2023-Odd","Data Mining","DATA",60,70,1,70,1,2023,70,60,70,35,25
+"2023-Odd","Internet of Things","IOT",60,70,1,70,1,2023,70,60,70,36,24
+"2023-Odd","Machine Learning","ML",65,75,1,75,1,2023,75,65,75,60,5
+"2024-Odd","Artificial Intelligence","AI",60,70,1,70,1,2024,70,60,70,48,12
+"2024-Odd","Big Data Analytics","BIGDATA",55,65,1,65,1,2024,65,55,65,24,31
+"2024-Odd","Blockchain Technology","BLOCKCHAIN",45,60,1,60,1,2024,60,45,60,17,28
+"2024-Odd","Cloud Computing","CLOUD",65,70,1,70,1,2024,70,65,70,49,16
+"2024-Odd","Cyber Security","CYBER",65,70,1,70,1,2024,70,65,70,39,26
+"2024-Odd","Data Mining","DATA",60,70,2,70,1,2024,70,60,140,32,28
+"2024-Odd","Internet of Things","IOT",55,65,1,65,1,2024,65,55,65,30,25
+"2024-Odd","Machine Learning","ML",70,80,2,80,1,2024,80,70,160,61,9
+"2025-Odd","Artificial Intelligence","AI",65,75,1,75,1,2025,75,65,75,40,25
+"2025-Odd","Big Data Analytics","BIGDATA",55,65,2,65,1,2025,65,55,130,24,31
+"2025-Odd","Blockchain Technology","BLOCKCHAIN",45,60,1,60,1,2025,60,45,60,22,23
+"2025-Odd","Cloud Computing","CLOUD",65,70,1,70,1,2025,70,65,70,38,27
+"2025-Odd","Cyber Security","CYBER",70,75,1,75,1,2025,75,70,75,48,22
+"2025-Odd","Data Mining","DATA",60,70,2,70,1,2025,70,60,140,27,33
+"2025-Odd","Internet of Things","IOT",55,65,1,65,1,2025,65,55,65,26,29
+"2025-Odd","Machine Learning","ML",75,80,2,80,1,2025,80,75,160,75,0
+"2026-Odd","Artificial Intelligence","AI",60,75,1,75,1,2026,75,60,75,43,17
+"2026-Odd","Big Data Analytics","BIGDATA",50,65,1,65,1,2026,65,50,65,34,16
+"2026-Odd","Blockchain Technology","BLOCKCHAIN",40,60,1,60,1,2026,60,40,60,17,23
+"2026-Odd","Cloud Computing","CLOUD",60,65,1,65,1,2026,65,60,65,45,15
+"2026-Odd","Cyber Security","CYBER",65,75,1,75,1,2026,75,65,75,58,7
+"2026-Odd","Data Mining","DATA",55,70,1,70,1,2026,70,55,70,25,30
+"2026-Odd","Internet of Things","IOT",50,65,1,65,1,2026,65,50,65,18,32
+"2026-Odd","Machine Learning","ML",60,80,2,80,1,2026,80,60,160,60,0
